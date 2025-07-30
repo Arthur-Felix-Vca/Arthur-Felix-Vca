@@ -14,7 +14,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/yoniiick" target="blank">
+  <a href="https://instagram.com/arthur_f.x" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
