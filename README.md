@@ -1,16 +1,43 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=120&section=header"/>
 
-<!--
-**Arthur-Felix-Vca/Arthur-Felix-Vca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C3483&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Arthur+Leite+Félix;Graduando+em+Ciência+da+Computação+-+UESB;Apaixonado+por+Cybersegurança+e+Tecnologia)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+[![arthurleitefelix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurleitefelix&bg_color=0d0d0d&color=ab47bc&line=ab47bc&point=ab47bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurleitefelix&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurleitefelix&show_icons=true&count_private=true&hide_border=true&title_color=ab47bc&icon_color=ab47bc&text_color=FFFFFF&bg_color=0d0d0d" alt="github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurleitefelix&layout=compact&hide_border=true&title_color=ab47bc&text_color=FFFFFF&bg_color=0d0d0d" />
+</div>
+
+<div align="center"> 
+  <a href="https://instagram.com/yoniiick" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</div>
+
+<br/>
+
+### 🛡️ Basic's Proficiencies:
+![Linux](https://img.shields.io/badge/-Linux-0D0D0D?style=for-the-badge&logo=linux&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-0D0D0D?style=for-the-badge&logo=gnu-bash&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Networking](https://img.shields.io/badge/-Networking-0D0D0D?style=for-the-badge&logo=cisco&labelColor=0D0D0D&color=ab47bc)&nbsp;
+
+### 🔐 Currently Working With:
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0D0D0D?style=for-the-badge&logo=kalilinux&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Wireshark](https://img.shields.io/badge/-Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D0D0D?style=for-the-badge&logo=burpsuite&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Metasploit](https://img.shields.io/badge/-Metasploit-0D0D0D?style=for-the-badge&logo=metasploit&labelColor=0D0D0D&color=ab47bc)&nbsp;
+![Nmap](https://img.shields.io/badge/-Nmap-0D0D0D?style=for-the-badge&logo=nmap&labelColor=0D0D0D&color=ab47bc)
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthurleitefelix&color=ab47bc&style=flat">
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=120&section=footer"/>
