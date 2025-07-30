@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C3483&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Arthur+Leite+Félix;Graduando+em+Ciência+da+Computação+-+UESB;Apaixonado+por+Cybersegurança+e+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C3483&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Leite+Félix;Computer+Science+student+at+UESB;Applying+Cybersecurity+and+Technology+skills)](https://git.io/typing-svg)
 
-[![arthurleitefelix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurleitefelix&bg_color=0d0d0d&color=ab47bc&line=ab47bc&point=ab47bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arthur-Felix-Vca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Felix-Vca&bg_color=0d0d0d&color=ab47bc&line=ab47bc&point=ab47bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurleitefelix&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Felix-Vca&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurleitefelix&show_icons=true&count_private=true&hide_border=true&title_color=ab47bc&icon_color=ab47bc&text_color=FFFFFF&bg_color=0d0d0d" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurleitefelix&layout=compact&hide_border=true&title_color=ab47bc&text_color=FFFFFF&bg_color=0d0d0d" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arthur-Felix-Vca&show_icons=true&count_private=true&hide_border=true&title_color=ab47bc&icon_color=ab47bc&text_color=FFFFFF&bg_color=0d0d0d" alt="github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Felix-Vca&layout=compact&hide_border=true&title_color=ab47bc&text_color=FFFFFF&bg_color=0d0d0d" />
 </div>
 
 <div align="center"> 
@@ -37,7 +37,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurleitefelix&color=ab47bc&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=Arthur-Felix-Vca&color=ab47bc&style=flat">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=120&section=footer"/>
+
