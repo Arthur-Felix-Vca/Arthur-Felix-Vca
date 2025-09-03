@@ -86,7 +86,7 @@ I'm a Cybersecurity student at **UESB** (State University of Southwest Bahia) in
   <i>"In cybersecurity, the only constant is change."</i>
 </p>
 
-<!-- Add some animation elements -->
+
 <div align="center">
   
 ![Cyber Security](https://github.com/Arthur-Felix-VCA/Arthur-Felix-VCA/raw/output/github-contribution-grid-snake.svg)
